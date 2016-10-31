@@ -1,5 +1,5 @@
 {
-    "name": "mpalourdio/mpa-custom-doctrine-hydrator",
+    "name": "stephane303/mpa-custom-doctrine-hydrator",
     "description": "Module that helps you deal with dates for DoctrineModule & ZF2 : filtering, hydration, Locale etc.",
     "license": "MIT",
     "keywords": [
